@@ -1,0 +1,41 @@
+background
+
+p
+{font: "Times New Roman"; font-size: x-large}
+
+.class_example{
+    font-style: italic;
+    color: red;
+    font-size: xx-large;
+    float: right;
+}
+
+a
+{
+    color: brown;
+}
+
+div.aaa
+{color: aqua;
+font: fantasy}
+
+p.aqua
+{color: aqua }
+
+div.font_comic_sans
+{
+    font-family: "Comic Sans MS";
+    border: double;
+}
+
+#my_my_idintificator{
+    color: deeppink;
+    text-align: center;
+}
+
+#my_my_idintificator2
+{
+    margin: 10px;
+    background: cadetblue;
+    color: white;
+}
