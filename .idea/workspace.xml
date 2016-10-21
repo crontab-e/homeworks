@@ -56,11 +56,9 @@
       <file leaf-file-name="2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-              <folding>
-                <element signature="e#12#94#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="506">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -373,12 +371,12 @@
       <workItem from="1475836683713" duration="9911000" />
       <workItem from="1475850442048" duration="2856000" />
       <workItem from="1476223066949" duration="24083000" />
-      <workItem from="1476866228660" duration="31573000" />
+      <workItem from="1476866228660" duration="31655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106786000" />
+    <option name="totallyTimeSpent" value="106868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -832,11 +830,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-          <folding>
-            <element signature="e#12#94#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="506">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

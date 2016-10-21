@@ -1,15 +1,4 @@
-<pre>
 <?php
-/**
- * Created by PhpStorm.
- * User: Андрей
- * Date: 21.10.2016
- * Time: 12:40
- */
-
-// $form_text = $_POST[my_text_area];
-
-//print_r($form_text);
 
 function checkTextLeght(){
     $form_text = preg_split("/\s/ ", $_POST[my_text_area]);
@@ -32,8 +21,3 @@ function checkTextLeght(){
     return $result;
 }
 echo checkTextLeght ();
-
-
-
-?>
-    </pre>
