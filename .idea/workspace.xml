@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6765e08a-98a6-431a-a55c-fbaf7b115d7a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/functions_forms_tasks/1.php" afterPath="$PROJECT_DIR$/functions_forms_tasks/1/1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions_forms_tasks/2/2.php" afterPath="$PROJECT_DIR$/functions_forms_tasks/2/2.php" />
     </list>
     <ignored path="php-lesons.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,8 +56,8 @@
       <file leaf-file-name="2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
               <folding>
                 <element signature="e#12#94#0#PHP" expanded="true" />
               </folding>
@@ -374,12 +373,12 @@
       <workItem from="1475836683713" duration="9911000" />
       <workItem from="1475850442048" duration="2856000" />
       <workItem from="1476223066949" duration="24083000" />
-      <workItem from="1476866228660" duration="30911000" />
+      <workItem from="1476866228660" duration="31573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106124000" />
+    <option name="totallyTimeSpent" value="106786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,8 +832,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
           <folding>
             <element signature="e#12#94#0#PHP" expanded="true" />
           </folding>
