@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6765e08a-98a6-431a-a55c-fbaf7b115d7a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/functions_forms_tasks/Новый текстовый документ.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions_forms_tasks/3/3.php" afterPath="$PROJECT_DIR$/functions_forms_tasks/3/3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions_forms_tasks/4.php" afterPath="$PROJECT_DIR$/functions_forms_tasks/4.php" />
     </list>
     <ignored path="php-lesons.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,22 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions_forms_tasks/4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.php">
+      <file leaf-file-name="5.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions_forms_tasks/5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="660">
+              <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+              <folding>
+                <element signature="e#273#355#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,6 +135,7 @@
         <option value="$PROJECT_DIR$/functions_forms_tasks/3/text.txt" />
         <option value="$PROJECT_DIR$/functions_forms_tasks/3/3.php" />
         <option value="$PROJECT_DIR$/functions_forms_tasks/4.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/5.php" />
       </list>
     </option>
   </component>
@@ -342,12 +346,12 @@
       <workItem from="1475850442048" duration="2856000" />
       <workItem from="1476223066949" duration="24083000" />
       <workItem from="1476866228660" duration="42712000" />
-      <workItem from="1477475505378" duration="3960000" />
+      <workItem from="1477475505378" duration="9221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121885000" />
+    <option name="totallyTimeSpent" value="127146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,7 +422,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/DZ 5.10.2016.php" />
@@ -690,14 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks/3/3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -714,11 +709,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks/4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="242">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="60" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+          <folding>
+            <element signature="e#273#355#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
