@@ -12,29 +12,27 @@
 <br>
 <?php
 
-$leght = $_POST[wordLength];
+$LeghtLimit = $_POST[wordLength];
 $text = file_get_contents('text.txt');
 
 echo "Исходный текст выглядел так:<br>".$text.PHP_EOL."<hr>";
 
-function TextParser($text)
+function TextParser($text, $LeghtLimit)
 {
-    global $text;
-    global $leght;
     $stack_L = array();
 
     $text_array = explode(" ", $text);
     foreach ($text_array as $v) {
         $wordLeght = mb_strlen($v);
-             if ($wordLeght <= $leght) {
+             if ($wordLeght <= $LeghtLimit) {
                  array_push($stack_L, $v);
         }
     }
     $result = implode(" ", $stack_L);
-    return "Удалим все слова, большие чем ".$leght." символов:<br>".$result;
+    return "Удалим все слова, большие чем ".$LeghtLimit." символов:<br>".$result;
 }
 
-echo TextParser($text);
+echo TextParser($text, $LeghtLimit);
 
 ?>
 </pre>
